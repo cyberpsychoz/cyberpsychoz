@@ -1,4 +1,3 @@
-### GLua // Helix 
 
 <!--
 **cyberpsychoz/cyberpsychoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 GLua // Helix 
+
+### Plugin and gamemode developer.
 
 ## 📈 My statistics
 
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Most popular repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=github-readme-stats)](https://github.com/cyberpsychoz/garrysmod_falloutrp_helix)
 
 ## 💬 Ask me in...
 
