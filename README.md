@@ -1,4 +1,4 @@
-### Hi there 👋
+### GLua // Helix 
 
 <!--
 **cyberpsychoz/cyberpsychoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 My statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-lebedev&theme=cobalt&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-lebedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⚡ Most popular repository
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-lebedev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+## 💬 Ask me in...
+
+- My Discord server: https://discord.gg/25sPwQvfct
+- My DM: krizh0vnik
