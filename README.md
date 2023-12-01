@@ -25,7 +25,7 @@ I understand network interactions between the server and clients, I can work wit
 
 ## ⚡ Most popular repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=github-readme-stats)](https://github.com/cyberpsychoz/garrysmod_falloutrp_helix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=garrysmod_falloutrp_helix)](https://github.com/cyberpsychoz/garrysmod_falloutrp_helix)
 
 ## 💬 Ask me in...
 
