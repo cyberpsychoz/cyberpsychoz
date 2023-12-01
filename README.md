@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 ## 🔭 GLua // Helix 
 
-### Plugin and gamemode developer.
+I've been developing plugins for Helix for three years now, and I've also been developing my own game modes. 
+I understand network interactions between the server and clients, I can work with SQL databases, PostrgeSQL.
 
 ## 📈 My statistics
 
@@ -29,3 +30,4 @@ Here are some ideas to get you started:
 
 - My Discord server: https://discord.gg/25sPwQvfct
 - My DM: krizh0vnik
+- Teelgram: https://t.me/helixmaster
