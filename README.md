@@ -20,6 +20,9 @@ I understand network interactions between the server and clients, I can work wit
 
 ## 📈 My statistics
 
+### Profile Views:
+![Visitor Count](https://profile-counter.glitch.me/Fer3D/count.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberpsychoz&theme=default&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpsychoz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
