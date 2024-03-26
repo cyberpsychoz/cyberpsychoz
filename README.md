@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 ## 🔭 GLua // Helix 
 
-I've been developing plugins for Helix for three years now, and I've also been developing my own game modes. 
-I understand network interactions between the server and clients, I can work with SQL databases, PostrgeSQL.
+I hate my life. I spent several years studying the Lua and Helix, created several modes, but people still continue to eat crap. 
+The only reason they come here is to steal something. I officially admit that the HELIX community is the most rotten and disgusting in all of Garry's Mode.
+So if you're developing on Helix, get the fuck out of here, you ugly little goblin. 
+Guys, don't repeat my mistakes, develop game modes from scratch or don't develop for Garrys'mode at all. This is a road to nowhere.
 
 ## 📈 My statistics
 
