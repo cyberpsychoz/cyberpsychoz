@@ -34,4 +34,4 @@ I understand network interactions between the server and clients, I can work wit
 
 - My Discord server: https://discord.gg/25sPwQvfct
 - My DM: krizh0vnik
-- Teelgram: https://t.me/helixmaster
+- Teelgram: [https://t.me/helixmaster](https://t.me/terminisle)https://t.me/terminisle
