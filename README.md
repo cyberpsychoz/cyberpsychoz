@@ -20,6 +20,8 @@ The only reason they come here is to steal something. I officially admit that th
 So if you're developing on Helix, get the fuck out of here, you ugly little goblin. 
 Guys, don't repeat my mistakes, develop game modes from scratch or don't develop for Garrys'mode at all. This is a road to nowhere.
 
+05.26.2024 - the author of this github is sent to serve in the armed forces, which is why he will not exist until 05.28.2025. If this status is not updated, it means I died or have not returned yet. Most of my work will be shared publicly, but the plugins and content that I really worked on will be available only to select people who have supported me throughout this time.
+
 ## 📈 My statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberpsychoz&theme=default&show_icons=true) 
