@@ -38,6 +38,5 @@ Guys, don't repeat my mistakes, develop game modes from scratch or don't develop
 
 ## 💬 Ask me in...
 
-- My Discord server: https://discord.gg/25sPwQvfct
 - My DM: krizh0vnik
 - Telegram: https://t.me/terminisle
