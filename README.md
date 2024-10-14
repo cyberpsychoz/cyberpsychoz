@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 GLua // Helix 
+## 🔭 Who I am? 
 
-I hate my life. I spent several years studying the Lua and Helix, created several modes, but people still continue to eat crap. 
+??.??.2022 - I hate my life. I spent several years studying the Lua and Helix, created several modes, but people still continue to eat crap. 
 The only reason they come here is to steal something. I officially admit that the HELIX community is the most rotten and disgusting in all of Garry's Mode.
 So if you're developing on Helix, get the fuck out of here, you ugly little goblin. 
 Guys, don't repeat my mistakes, develop game modes from scratch or don't develop for Garrys'mode at all. This is a road to nowhere.
