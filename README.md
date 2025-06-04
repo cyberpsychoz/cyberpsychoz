@@ -15,15 +15,39 @@ Here are some ideas to get you started:
 -->
 ## 🔭 Who I am? 
 
-### 🔐 From Web Craft to Cyber-Physical Security
+### 🔐 From Pixels to Cyber-Physical Systems
 
-Formerly a **Web Developer** building production-ready landing pages, e-commerce stores, and dynamic web applications. Proven skills in problem-solving, project delivery, and user-centric design.
+**Multidisciplinary Technologist** transitioning from creative development to security-critical systems:
 
-Now **fully pivoting** into **Information Security** & **Robotics/Cybernetics**, driven by a passion for protecting systems and understanding intelligent machines. 
+🕹️ **Gaming & Web Foundation:**
+- Built commercial web solutions (landing pages, e-stores)
+- Developed Garry's Mod content & servers (Source engine expert)
+- Mastered Lua through game server architecture
+- Vector++ school graduate: OOP/C++ core principles
 
-Currently immersed in Project Management and building projects at this intersection.
+🛡️ **Security-Minded Practitioner:**
+- Military service (2024-2025): Secured HQ facilities and intelligence operations
+- Developed operational security protocols in high-stakes environments
+- Intrinsic understanding of threat landscapes
 
-**Open to** roles in cybersecurity (analysis, engineering) and robotics/cybernetics (software, controls, security). Passionate about securing the future, one system at a time.
+🤖 **Future Focus: Robotics & Cybernetics**
+- Transitioning to information security and autonomous systems
+- Specializing in LM training for robotic decision-making
+- Developing secure humanoid control frameworks
+- Passionate about cyber-physical system integrity
+
+**Unique Value Proposition:**
+✅ Battle-tested security mindset (digital + physical)  
+✅ Low-level systems proficiency (C++/Source Engine)  
+✅ Full-stack development experience (Web → Embedded)  
+✅ Cross-domain prototyping (Games → Military → Robotics)  
+
+**Currently building:** Secure ROS implementations for humanoid platforms and LM training pipelines for robotic cognition.
+
+**Seeking roles in:**  
+- Robotics Engineering  
+- WEB Security  
+- LM Model Training
 
 ## 📈 My statistics
 
