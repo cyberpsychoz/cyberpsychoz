@@ -38,6 +38,4 @@ Currently immersed in Project Management and building projects at this intersect
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=garrysmod_falloutrp_helix)](https://github.com/cyberpsychoz/garrysmod_falloutrp_helix)
 
 ## 💬 Ask me in...
-
-- My DM: krizh0vnik
 - Telegram: https://t.me/terminisle
