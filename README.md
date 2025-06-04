@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 -->
 ## 🔭 Who I am? 
 
-??.??.2022 - I hate my life. I spent several years studying the Lua and Helix, created several modes, but people still continue to eat crap. 
-The only reason they come here is to steal something. I officially admit that the HELIX community is the most rotten and disgusting in all of Garry's Mode.
-So if you're developing on Helix, get the fuck out of here, you ugly little goblin. 
-Guys, don't repeat my mistakes, develop game modes from scratch or don't develop for Garrys'mode at all. This is a road to nowhere.
+### 🔐 From Web Craft to Cyber-Physical Security
 
-05.26.2024 - the author of this github is sent to serve in the armed forces, which is why he will not exist until 05.28.2025. If this status is not updated, it means I died or have not returned yet. Most of my work will be shared publicly, but the plugins and content that I really worked on will be available only to select people who have supported me throughout this time.
+Formerly a **Web Developer** building production-ready landing pages, e-commerce stores, and dynamic web applications. Proven skills in problem-solving, project delivery, and user-centric design.
 
-23.08.2024 - Still alive. Only now, after a lot of time spent in hell. I realize how wrong I was in my attitude towards life. I'm really sorry that I missed a lot of opportunities and blamed other people for it. The only problem that prevented me from developing all this time was myself. Sorry. Life is beautiful, appreciate it. Learn, don't sit still, love and follow your dreams. Never give up, no matter how hard it gets. And at least on weekends, find time to break away from the computer and spend time with real people or walking outside in the park.
+Now **fully pivoting** into **Information Security** & **Robotics/Cybernetics**, driven by a passion for protecting systems and understanding intelligent machines. 
 
-09.04.2025 - Today I have lost the meaning of my whole life and my love. There was only hatred left.
+Currently immersed in Project Management and building projects at this intersection.
+
+**Open to** roles in cybersecurity (analysis, engineering) and robotics/cybernetics (software, controls, security). Passionate about securing the future, one system at a time.
 
 ## 📈 My statistics
 
