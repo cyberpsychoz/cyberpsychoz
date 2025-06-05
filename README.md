@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - Passionate about cyber-physical system integrity
 
 **Unique Value Proposition:**
+
 ✅ Battle-tested security mindset (digital + physical)  
 ✅ Low-level systems proficiency (C++/Source Engine)  
 ✅ Full-stack development experience (Web → Embedded)  
