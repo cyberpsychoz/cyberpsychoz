@@ -24,12 +24,13 @@
 **Unique Value Proposition:**  
 ✅ Battle-tested security mindset (digital + physical)  
 ✅ **Python-focused AI development**
+
 ✅ Full-stack development experience (Web → Embedded)  
 ✅ Cross-domain prototyping (Games → Military → AI Robotics)  
 
-**Currently building:** AI algorithms at Neuro.net + Secure ROS implementations for humanoid platforms.  
+**Currently building:** AI algorithms at Neuro.net + Rasberry PI AI Assistant.
 
-**Professional Focus:**  <-- Обновлённый раздел вместо "Seeking roles"
+**Professional Focus:**
 - Industrial AI/ML Solutions  
 - Robotic Cognition Systems  
 - Secure Cyber-Physical Architectures
