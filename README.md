@@ -15,10 +15,10 @@
 - Developed operational security protocols in high-stakes environments  
 - Intrinsic understanding of threat landscapes  
 
-🤖 **AI & Robotics Professional**  <-- Обновлённый заголовок
+🤖 **AI & Robotics Professional**
 - **Current Role**: AI Algorithm Developer at [Neuro.net](https://neuro.net/)  
-- **Primary Stack**: Python for AI/ML solutions and robotics systems
-- Specializing in LM training for decision-making architectures  
+- **Primary Stack**: Python for AI/ML solutions
+- Specializing in creating algorithms for decision-making architectures  
 - Developing secure control frameworks for autonomous systems  
 
 **Unique Value Proposition:**  
