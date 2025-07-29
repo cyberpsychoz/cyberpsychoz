@@ -43,7 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpsychoz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Views:
-![](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=1000)
+![](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=3587)
 
 ## ⚡ Most popular repository
 
