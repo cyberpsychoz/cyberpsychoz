@@ -1,54 +1,38 @@
-
-<!--
-**cyberpsychoz/cyberpsychoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🔭 Who I am? 
 
 ### 🔐 From Pixels to Cyber-Physical Systems
 
 **Multidisciplinary Technologist** transitioning from creative development to security-critical systems:
 
-🕹️ **Gaming & Web Foundation:**
-- Built commercial web solutions (landing pages, e-stores)
-- Developed Garry's Mod content & servers (Source engine expert)
-- Mastered Lua through game server architecture
-- Vector++ school graduate: OOP/C++ core principles
+🕹️ **Gaming & Web Foundation:**  
+- Built commercial web solutions (landing pages, e-stores)  
+- Developed Garry's Mod content & servers (Source engine expert)  
+- Mastered Lua through game server architecture  
+- Vector++ school graduate: OOP/C++ core principles  
 
-🛡️ **Security-Minded Practitioner:**
-- Military service (2024-2025): Secured HQ facilities and intelligence operations
-- Developed operational security protocols in high-stakes environments
-- Intrinsic understanding of threat landscapes
+🛡️ **Security-Minded Practitioner:**  
+- Military service (2024-2025): Secured HQ facilities and intelligence operations  
+- Developed operational security protocols in high-stakes environments  
+- Intrinsic understanding of threat landscapes  
 
-🤖 **Future Focus: Robotics & Cybernetics**
-- Transitioning to information security and autonomous systems
-- Specializing in LM training for robotic decision-making
-- Developing secure humanoid control frameworks
-- Passionate about cyber-physical system integrity
+🤖 **AI & Robotics Professional**  <-- Обновлённый заголовок
+- **Current Role**: AI Algorithm Developer at [Neuro.net](https://neuro.net/)  
+- **Primary Stack**: Python for AI/ML solutions and robotics systems  <-- Новый пункт
+- Specializing in LM training for decision-making architectures  
+- Developing secure control frameworks for autonomous systems  
 
-**Unique Value Proposition:**
-
+**Unique Value Proposition:**  
 ✅ Battle-tested security mindset (digital + physical)  
-✅ Low-level systems proficiency (C++/Source Engine)  
+✅ **Python-focused AI development** + low-level systems (C++)  <-- Акцент на Python 
 ✅ Full-stack development experience (Web → Embedded)  
-✅ Cross-domain prototyping (Games → Military → Robotics)  
+✅ Cross-domain prototyping (Games → Military → AI Robotics)  
 
-**Currently building:** Secure ROS implementations for humanoid platforms and LM training pipelines for robotic cognition.
+**Currently building:** AI algorithms at Neuro.net + Secure ROS implementations for humanoid platforms.  
 
-**Seeking roles in:**  
-- Robotics Engineering  
-- WEB Security  
-- LM Model Training
+**Professional Focus:**  <-- Обновлённый раздел вместо "Seeking roles"
+- Industrial AI/ML Solutions  
+- Robotic Cognition Systems  
+- Secure Cyber-Physical Architectures
 
 ## 📈 My statistics
 
@@ -56,7 +40,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpsychoz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/cyberpsychoze/count.svg)
+![](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge)
 
 ## ⚡ Most popular repository
 
