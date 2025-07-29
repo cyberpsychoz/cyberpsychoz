@@ -17,13 +17,13 @@
 
 🤖 **AI & Robotics Professional**  <-- Обновлённый заголовок
 - **Current Role**: AI Algorithm Developer at [Neuro.net](https://neuro.net/)  
-- **Primary Stack**: Python for AI/ML solutions and robotics systems  <-- Новый пункт
+- **Primary Stack**: Python for AI/ML solutions and robotics systems
 - Specializing in LM training for decision-making architectures  
 - Developing secure control frameworks for autonomous systems  
 
 **Unique Value Proposition:**  
 ✅ Battle-tested security mindset (digital + physical)  
-✅ **Python-focused AI development** + low-level systems (C++)  <-- Акцент на Python 
+✅ **Python-focused AI development**
 ✅ Full-stack development experience (Web → Embedded)  
 ✅ Cross-domain prototyping (Games → Military → AI Robotics)  
 
