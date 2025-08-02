@@ -17,7 +17,7 @@
 - Intrinsic understanding of threat landscapes  
 
 🤖 **AI & Robotics Professional**
-- **Current Role**: AI Algorithm Developer at [Neuro.net](https://neuro.net/)  
+- **Current Role**: AI Algorithm Developer at Neuro.net & Fromtech  
 - **Primary Stack**: Python for AI/ML solutions
 - Specializing in creating algorithms for decision-making architectures  
 - Developing secure control frameworks for autonomous systems  
