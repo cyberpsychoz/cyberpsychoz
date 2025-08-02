@@ -45,7 +45,7 @@
 
 ## ⚡ Most popular repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=garrysmod_falloutrp_helix)](https://github.com/cyberpsychoz/garrysmod_falloutrp_helix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyberpsychoz&repo=helix_cyberpunk_schema)](https://github.com/cyberpsychoz/helix_cyberpunk_schema)
 
 ## 💬 Ask me in...
 - Telegram: https://t.me/terminisle
