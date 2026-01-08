@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -18,7 +18,7 @@ Multidisciplinary technologist with a background spanning game development, web 
 
 **Current Position:** AI Algorithm Developer at Neuro.net & Fromtech
 
----
+
 
 ## Tech Stack
 
@@ -45,7 +45,7 @@ Multidisciplinary technologist with a background spanning game development, web 
 
 </div>
 
----
+
 
 ## Professional Experience
 
@@ -64,7 +64,7 @@ Multidisciplinary technologist with a background spanning game development, web 
 - Game server development (Source Engine, Garry's Mod)
 - Vector++ graduate: OOP and C++ fundamentals
 
----
+
 
 ## Focus Areas
 
@@ -74,14 +74,14 @@ Multidisciplinary technologist with a background spanning game development, web 
 | Robotic Cognition | Building intelligent decision-making systems for robotics |
 | Cyber-Physical Security | Designing secure architectures for embedded systems |
 
----
+
 
 ## Current Projects
 
 - AI algorithm development at Neuro.net
 - Raspberry Pi-based AI Assistant
 
----
+
 
 ## Contact
 
