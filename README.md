@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=4769)
 
-**AI Algorithm Developer | Python Engineer | Security-Focused Technologist**
+**AI Algorithm Developer | Python Engineer**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
 
