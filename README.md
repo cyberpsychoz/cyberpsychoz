@@ -1,90 +1,134 @@
 <div align="center">
 
-# Mr. V
+# Hey, I'm Mr. V
 
 ![picture](https://i.pinimg.com/originals/5d/7e/63/5d7e63321c20205cff35c4f6c9891ccd.gif)
 
+### AI/ML Engineer • Computer Vision • LLM Systems • Full-Stack Developer
 
-
-**AI Algorithm Developer | Python Engineer**
-
-![Profile Views](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=4769) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
+![Profile Views](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=4769)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
 
 </div>
 
+---
 
+## [>] About Me
 
-## About Me
+**AI Algorithm Developer** with **5+ years of commercial experience**. Started as a **Full-Stack Web Developer**, evolved through **Backend Python**, now focused on **LLM/NLU systems**, **Computer Vision**, and **Voice AI**.
 
-Multidisciplinary technologist with a background spanning game development, web engineering, and security operations. Currently focused on AI/ML algorithm development and robotic systems.
+Currently at **Neuro.net** — building voice agents, LLM-powered dialog systems with RAG, and SIP/IVR integrations.
 
-**Current Position:** AI Algorithm Developer at Neuro.net & Fromtech
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mr. V"
+        self.role = "Middle Backend Python Developer"
+        self.experience = "5+ years"
+        self.languages = ["Python", "C++", "JavaScript", "SQL", "Lua"]
+        self.focus = ["LLM/NLU", "Voice AI", "Computer Vision", "Backend"]
+```
 
+---
 
-
-## Tech Stack
+## [>] Tech Stack
 
 <div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI/ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Voice & Telephony
+![Asterisk](https://img.shields.io/badge/Asterisk-F57C00?style=for-the-badge&logo=asterisk&logoColor=white)
+![SIP](https://img.shields.io/badge/SIP/VoIP-009688?style=for-the-badge&logo=cisco&logoColor=white)
+
+### DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
+---
 
+## [>] Featured Projects
 
-## Professional Experience
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[niNE](https://github.com/cyberpsychoz/niNE)** | 3D Multiplayer RP Framework (SS14/GMod inspired) | `Python` `Panda3D` `AsyncIO` `Sockets` |
+| **[Songbird](https://github.com/cyberpsychoz/Songbird)** | AI-Powered CLI Agent for dev workflows | `C++17` `Ollama` `LLM` `AST` |
+| **[OpenCV-Turret](https://github.com/cyberpsychoz/OpenCV-Turret)** | Real-time CV target detection system | `Python` `OpenCV` `YOLOv8` `Kalman` |
+| **Nazgul LLM** *(private)* | Commercial LLM automation solution | `Python` `RAG` `NLP` |
 
-### AI & Robotics
-- Developing AI algorithms for decision-making architectures
-- Building secure control frameworks for autonomous systems
-- Creating ML solutions for industrial applications
+---
 
-### Security Background
-- Military service (2024–2025): Secured HQ facilities and intelligence operations
-- Developed operational security protocols in high-stakes environments
-- Strong understanding of threat landscapes and OPSEC principles
+## [>] Professional Experience
 
-### Software Development
-- Commercial web solutions (landing pages, e-commerce)
-- Game server development (Source Engine, Garry's Mod)
-- Vector++ graduate: OOP and C++ fundamentals
+| Period | Company | Role | Stack |
+|--------|---------|------|-------|
+| **2025 — now** | Neuro.net | Middle Backend Python Developer | `FastAPI` `LangGraph` `RAG` `SIP` `NLU` |
+| **2024 — 2025** | Russian Armed Forces | Software Engineer | `Python` `OpenCV` `PyTorch` `FireBird` |
+| **2023** | FL.ru (Freelance) | Backend Python Developer | `Django` `FastAPI` `PostgreSQL` `Selenium` |
+| **2022** | Federal Bailiff Service | 1C Developer | `1C` `VBA` `MS SQL` |
+| **2020 — 2022** | UpWork | Full-Stack Web Developer | `Node.js` `React` `PHP` `REST API` |
 
+---
 
+## [>] Core Competencies
 
-## Focus Areas
+```
++-----------------------------------------------------------------+
+|  Python / Backend    ████████████████████████  95%              |
+|  LLM / NLU / RAG     ████████████████████░░░░  80%              |
+|  Computer Vision     ████████████████████░░░░  80%              |
+|  Voice AI / SIP      ████████████████░░░░░░░░  70%              |
+|  C++                 ████████████████░░░░░░░░  65%              |
+|  Web Full-Stack      ████████████████████░░░░  85%              |
++-----------------------------------------------------------------+
+```
 
-| Domain | Description |
-|--------|-------------|
-| Industrial AI/ML | Developing production-ready machine learning solutions |
-| Robotic Cognition | Building intelligent decision-making systems for robotics |
-| Cyber-Physical Security | Designing secure architectures for embedded systems |
+---
 
+## [>] GitHub Stats
 
+<div align="center">
 
-## Current Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberpsychoz&show_icons=true&theme=tokyonight&hide_border=true)
 
-- AI algorithm development at Neuro.net
-- Raspberry Pi-based AI Assistant
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpsychoz&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
 
+---
 
-## Contact
+## [>] Keywords
+`Python Developer` `Backend Developer` `Machine Learning` `Deep Learning` `Computer Vision` `NLP` `NLU` `LLM` `RAG` `LangChain` `LangGraph` `Voice AI` `SIP` `VoIP` `FastAPI` `Django` `PyTorch` `OpenCV` `Full Stack` `AI Engineer`
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/terminisle)
+---
+
+## [>] Contact
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
+
+**Open to:** Remote Work • Freelance • Collaborations • Open Source
+
+</div>
