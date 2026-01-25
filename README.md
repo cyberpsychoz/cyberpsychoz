@@ -73,7 +73,7 @@ class Developer:
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[niNE](https://github.com/cyberpsychoz/niNE)** | 3D Multiplayer RP Framework (SS14/GMod inspired) | `Python` `Panda3D` `AsyncIO` `Sockets` |
-| **[Songbird](https://github.com/cyberpsychoz/Songbird)** | AI-Powered CLI Agent for dev workflows | `C++17` `Ollama` `LLM` `AST` |
+| **[Songbird](https://github.com/cyberpsychoz/Songbird)** | AI-Powered CLI Agent for OSINT workflows | `C++17` `Ollama` `LLM` `AST` |
 | **[OpenCV-Turret](https://github.com/cyberpsychoz/OpenCV-Turret)** | Real-time CV target detection system | `Python` `OpenCV` `YOLOv8` `Kalman` |
 | **Nazgul LLM** *(private)* | Commercial LLM automation solution | `Python` `RAG` `NLP` |
 
