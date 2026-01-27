@@ -4,7 +4,7 @@
 
 ![picture](https://i.pinimg.com/originals/5d/7e/63/5d7e63321c20205cff35c4f6c9891ccd.gif)
 
-### AI/ML Algorithm Engineer • LLM Systems
+### AI/ML Algorithm Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=4769)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
