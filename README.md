@@ -7,7 +7,7 @@
 ### AI/ML Algorithm Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cyberpsychoz&color=blueviolet&style=for-the-badge&abbreviated=true&base=4769)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gotogrub)
 
 </div>
 
@@ -127,7 +127,7 @@ class Developer:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/terminisle)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gotogrub)
 
 **Open to:** Remote Work • Freelance • Collaborations • Open Source
 
