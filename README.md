@@ -106,18 +106,6 @@ class Developer:
 
 ---
 
-## [>] GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberpsychoz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpsychoz&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## [>] Keywords
 `Python Developer` `Backend Developer` `Machine Learning` `Deep Learning` `Computer Vision` `NLP` `NLU` `LLM` `RAG` `LangChain` `LangGraph` `Voice AI` `SIP` `VoIP` `FastAPI` `Django` `PyTorch` `OpenCV` `Full Stack` `AI Engineer`
 
