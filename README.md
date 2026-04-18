@@ -8,11 +8,7 @@
 
 ---
 
-Backend developer at [Neuro.net](https://neuro.net) — building voice AI agents for banks, telecom, and fintech. LLM-powered dialogs, RAG, NLU, all that jazz.
-
-Before that: mass web dev on UpWork, freelance Python stuff, even 1C development (don't ask).
-
-I like building things that actually work in production, not just demos.
+Python Backend Developer with 5+ years of commercial experience. Focus — AI, ML and computer vision. Currently at Neuro.net building production voice AI agents for 100,000+ users/month across 12+ enterprise clients (VTB, Alfa-Bank, MegaFon, Beeline, Skyeng).
 
 <div align="center">
 
