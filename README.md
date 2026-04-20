@@ -37,7 +37,7 @@ Python Backend Developer with 5+ years of commercial experience. Focus — AI, M
 
 Currently interested in: LLM agents, robotics, computer vision, and stuff that moves.
 
-📄 [Resume (EN)](./RESUME_EN.md) | [Резюме (RU)](./RESUME_RU.md)
+📄 [Resume (EN)](https://lebedev-systems.com/contact.html) | [Резюме (RU)](https://lebedev-systems.com/contact.html)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gotogrub)
 </div>
